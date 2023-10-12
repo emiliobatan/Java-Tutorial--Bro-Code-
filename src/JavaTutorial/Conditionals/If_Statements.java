@@ -20,5 +20,7 @@ public class If_Statements {
         } else {
             System.out.println("You cant drink yet");
         }
+
+        scanner.close();
     }
 }
