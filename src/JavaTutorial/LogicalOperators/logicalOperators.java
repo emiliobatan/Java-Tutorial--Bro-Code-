@@ -54,5 +54,7 @@ public class logicalOperators {
         } else {
             System.out.println("You quit the game");
         }
+
+        scanner.close();
     }
 }
