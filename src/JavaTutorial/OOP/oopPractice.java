@@ -7,8 +7,8 @@ public class oopPractice {
 
     public static void main(String[] args) {
 
-        Human human1 = new Human("Emilio", 25, 160);
-        Human human2 = new Human("Morty", 16, 130);
+        // Human human1 = new Human("Emilio", 25, 160);
+        // Human human2 = new Human("Morty", 16, 130);
 
         // car porsche = new car();
         // System.out.println(porsche.color);
@@ -17,10 +17,10 @@ public class oopPractice {
         // porsche.drive();
         // porsche.brake();
 
-        System.out.println(human1.name);
-        human2.eat();
+        // System.out.println(human1.name);
+        // human2.eat();
 
-        human1.dink();
+        // human1.dink();
     }
 
 }
