@@ -1,5 +1,7 @@
 package JavaTutorial.OOP_Cont;
 
+import JavaTutorial.OOP.car;
+
 public class StaticKeyword {
     
     // static = modifier. A single copy of a variable/method is created and shared.
