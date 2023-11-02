@@ -1,6 +1,6 @@
 package JavaTutorial.OOP_Cont;
 
-import JavaTutorial.OOP.car;
+// import JavaTutorial.OOP.car;
 
 public class StaticKeyword {
     
@@ -11,10 +11,10 @@ public class StaticKeyword {
     public static void main(String[] args) {
         System.out.println(Friend.numberOfFriends);
 
-        Friend friend1 = new Friend("Antonio");
-        Friend friend2 = new Friend("Hector");
-        Friend friend3 = new Friend("Tristan");
-        Friend friend4 = new Friend("Joven");
+        // Friend friend1 = new Friend("Antonio");
+        // Friend friend2 = new Friend("Hector");
+        // Friend friend3 = new Friend("Tristan");
+        // Friend friend4 = new Friend("Joven");
 
 
         Friend.displayFriends();
