@@ -1,4 +1,4 @@
-package JavaTutorial.OOP_Cont;
+package JavaTutorial.Inheritance;
 
 public class Garage {
     

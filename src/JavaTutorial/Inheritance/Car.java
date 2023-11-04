@@ -1,4 +1,6 @@
-package JavaTutorial.OOP_Cont;
+package JavaTutorial.Inheritance;
+
+import JavaTutorial.OOP_Cont.Vehicle;
 
 public class Car extends Vehicle{
     // Class attributes

@@ -1,4 +1,4 @@
-package JavaTutorial.OOP_Cont;
+package JavaTutorial.Inheritance;
 
 // With so many folders and files, this will be the main class for OOP_Cont
 
