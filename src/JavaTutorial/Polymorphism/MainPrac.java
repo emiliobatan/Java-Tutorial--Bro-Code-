@@ -1,6 +1,6 @@
 package JavaTutorial.Polymorphism;
 
-import java.util.Arrays;
+// import java.util.Arrays;
 import java.util.Scanner;
 
 public class MainPrac {
@@ -52,10 +52,6 @@ public class MainPrac {
             System.out.println("That choice was invalid");
             animal.speak();
         }
-
-
-
-
-        
+        scanner.close();
     }
 }
