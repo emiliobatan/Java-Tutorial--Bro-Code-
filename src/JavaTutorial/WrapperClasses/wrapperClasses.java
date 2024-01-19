@@ -10,12 +10,13 @@ public class wrapperClasses {
          * reference data types contain useful methods
          * can be used with collections (ex. ArrayList)
          * 
-         * prmitive * wrapper
-         * -------- -------
-         * boolean * Boolean
-         * char * Character
-         * int * Integer
-         * double * Double
+         * prmitive     *       wrapper
+         * --------             -------
+         * boolean      *       Boolean
+         * char         *       Character
+         * int          *       Integer
+         * double       *       Double
+         * 
          * 
          * autoboxing: the automatic conversion that the Java compiler makes between the
          * primitive types and their corresponding object wrapper class

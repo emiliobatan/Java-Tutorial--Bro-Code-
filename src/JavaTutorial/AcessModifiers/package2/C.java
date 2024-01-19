@@ -1,5 +1,5 @@
 package JavaTutorial.AcessModifiers.package2;
-import  JavaTutorial.AcessModifiers.package1.*;
+// import  JavaTutorial.AcessModifiers.package1.*;
 
 
 public class C {
